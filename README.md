@@ -2,7 +2,7 @@
 
 This repository contains a clean dataset comprising 1,500 anonymized patient records related to Obsessive-Compulsive Disorder (OCD). The dataset is structured to support data analysis, machine learning, or medical research focused on mental health, particularly OCD, its diagnosis patterns, comorbidities, and treatment.
 
-#About the Dataset:
+# About the Dataset:
 
 Each row in the dataset represents a patient diagnosed with OCD, along with a variety of demographic, clinical, and psychological attributes. This cleaned version ensures consistency in formatting and minimal missing values, making it ready for analysis.
 
