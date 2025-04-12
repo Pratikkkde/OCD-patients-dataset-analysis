@@ -26,7 +26,7 @@ depression_diagnosis – Indicates whether the patient also has depression (Yes/
 anxiety_diagnosis – Indicates whether the patient also has anxiety (Yes/No)
 medications – Medication(s) prescribed to the patient (e.g., SSRI, SNRI, Benzodiazepine); may be missing if none
 
-# Y-BOCS (Yale-Brown Obsessive Compulsive Scale) is a common scale used by clinicians to assess the severity of OCD symptoms.
+Y-BOCS (Yale-Brown Obsessive Compulsive Scale) is a common scale used by clinicians to assess the severity of OCD symptoms.
 
 # Data Notes
 
